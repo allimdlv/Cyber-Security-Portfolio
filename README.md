@@ -1,4 +1,4 @@
-# Cyber-Security-Portfolio
+# Allianne Matthew's Portfolio
 
 ## About Me
 
@@ -88,21 +88,29 @@ Fluent in Tagalog
 
 ### **USCG Sector Jacksonville — Incident Management Division**  
 *Summer 2025*  
-- Assisted in naval tug inspections  
-- Observed HAZMAT emergency response operations at JAXPORT  
+- Conducted domestic Navy tug inspection as part of the Sector Inspection Team
+- Observed and aided in emergency Hazardous Material Management (HAZMAT) response at Jacksonville 
+Port Authority (JAXPORT)  
 
 ---
 
 ## Leadership & Service
 
-### **President, International Council – USCGA**  
-Lead international cadet representation across the Academy; direct logistics, strategy, and multi-event programming.
+### **Vice President & President (May 2024 - Present), International Council – USCGA**  
+• Lead international cadet representation across the Academy; direct logistics, strategy, and multi-event programming.
+• Facilitated communication between international cadets and Academy leadership, ensuring concerns 
+were addressed professionally and through appropriate channels. 
+• Assisted in managing logistics, scheduling, and funding for multi-event programming, contributing to 
+improved participation and organizational effectiveness. 
+• Planned and executed professional development, cultural, and morale-building events involving 
+Academy leadership, alumni, and external organizations. 
+• Directed organizational operations, including event logistics, scheduling, coordination with campus 
+offices, and allocation of funding and resources amounting to $14,000.00.
 
 ### **Operations Liaison (Division Officer), Charlie Company**  
-Managed cadet qualification documentation, personnel readiness, and operational coordination.
-
-### **Vice President, International Council**  
-Coordinated high-visibility events, cultural programs, and $14,000+ in allocated resources.
+• Managed cadet qualification documentation, personnel readiness, and operational coordination.
+• Coordinated with multiple stakeholders to ensure compliance and readiness
+• Strengthened attention to detail and process managament.
 
 ---
 
