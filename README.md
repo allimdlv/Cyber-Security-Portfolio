@@ -12,7 +12,7 @@ I’m Allianne Matthew Dela Vega — a Cyber Systems major at the U.S. Coast Gua
   Zeek, Suricata, Splunk, IDS/IPS workflows, Windows Event Forwarding
 
 - **Security Analysis & Incident Response**  
-  Log triage, event correlation, packet analysis, threat identification
+  Wireshark, Log triage, event correlation, packet analysis, threat identification
 
 - **Maritime Cyber & SDR Research**  
   AIS decoding, RF signal analysis, NMEA parsing, ArcGIS-based visualization
