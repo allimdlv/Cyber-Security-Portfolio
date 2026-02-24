@@ -115,6 +115,12 @@ Through this work, I ensure international cadets are supported academically, pro
 
 ---
 
+## Education
+- Bachelor of Science in Cyber Systems under the United States Coast Guard Academy
+- Computing Accreditation Commission of ABET accreditation under New England Commission of Higher Education (NECHE)
+
+---
+
 ## Connect With Me
 
 **LinkedIn:** www.linkedin.com/in/amdelavega  
