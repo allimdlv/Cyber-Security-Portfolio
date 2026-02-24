@@ -20,23 +20,11 @@ The end goal was to build an operational SIEM pipeline, validate event ingestion
   <img src="./screenshots/Splunk-network-diagram.png" alt="Network diagram showing multi-host architecture including Splunk Server, Windows workstations, Kali hosts, AD/DC, and DMZ segments" width="85%">
 </p>
 
-### ✔️ What This Shows  
-This diagram represents the full SIEM lab environment, including:
-
-- **Splunk Server (Debian, 192.168.49.56)**  
-- **Windows workstations** configured with Universal Forwarders  
-- **Active Directory Domain Controller**  
-- **DHCP & Mail servers**  
-- **Kali Linux hosts**  
-- **DMZ and LAN segmentation**  
-
-**Why it matters:**  
-A proper SIEM deployment depends heavily on network segmentation and telemetry visibility. This architecture mirrors production environments used for enterprise security monitoring.
-
 ---
 
-## 📥 2. Universal Forwarder Configuration
+## 📸 Key Screenshots
 
+### 🔹 Splunk Enterprise Web Interface  
 <p align="center">
   <img src="./screenshots/Universal-Forwarder.png" alt="Windows PowerShell showing Splunk Universal Forwarder service starting, validating configs, and confirming connectivity" width="85%">
 </p>
@@ -111,37 +99,18 @@ This is the exact workflow used in SOC environments to identify anomalies and se
 A sample ingested event:
 
 - **EventCode:** 16394  
-- **Meaning:** Software Protection Platform Service started  
-- **Category:** System Health  
-- **Why it matters:** Confirms the SIEM is receiving operational, host-level telemetry necessary for monitoring service stability and detecting abnormal behavior.
+- **Meaning:** The "Software Protection Platform Service" has successfully started.  
+- **Relevance:** Confirms that host application logs are correctly forwarded, indexed, and searchable.
+
+This validates the SIEM pipeline end-to-end.
 
 ---
 
-## 🛠️ Skills Demonstrated
-
-- SIEM deployment & configuration  
-- Endpoint log forwarding  
-- Windows Event Log analysis  
-- Index creation & pipeline troubleshooting  
-- SPL query development  
-- Network architecture mapping  
-- Real-time monitoring workflows  
+## Key Learning Outcomes
+- Built practical SIEM ingestion workflows  
+- Gained experience with Universal Forwarder configuration  
+- Configured custom indexes and receiving ports  
+- Performed Windows Event Log triage using Splunk Search  
+- Strengthened understanding of enterprise log architecture and SOC workflows  
 
 ---
-
-## 📁 Project Structure
-Splunk-SIEM-Deployment/
-│── README.md
-│── screenshots/
-│ ├── Splunk-network-diagram.png
-│ ├── Universal-Forwarder.png
-│ ├── Splunk-UI.png
-│ └── Event-search.png
-│── configs/
-│ └── inputs.conf
-
----
-
-## 🏁 Summary
-
-This project demonstrates my ability to deploy a functioning SIEM environment, forward logs from multiple Windows endpoints, build custom indexes, validate ingestion pipelines, and perform real-time event triage. It reflects the core competencies expected of SOC analysts, detection engineers, and cybersecurity practitioners.
