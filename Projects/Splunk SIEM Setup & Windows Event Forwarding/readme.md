@@ -35,7 +35,7 @@ This environment replicates a real SOC workflow and shows competency in log aggr
 
 ---
 
-## 📸 Key Screenshots
+## Key Screenshots
 
 ### 🔹 Splunk Enterprise Web Interface  
 <p align="center">
