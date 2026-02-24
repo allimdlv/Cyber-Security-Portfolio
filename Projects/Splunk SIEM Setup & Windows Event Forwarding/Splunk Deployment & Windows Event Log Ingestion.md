@@ -1,4 +1,4 @@
-# Splunk SIEM Deployment & Windows Event Log Ingestion
+# Splunk & Windows Event Log Ingestion
 
 **Designed and deployed a complete SIEM pipeline using Splunk Enterprise and Windows Universal Forwarders to aggregate, index, and analyze real-time Windows Event Logs across a multi-host lab environment.**
 
