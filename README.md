@@ -97,15 +97,11 @@ Port Authority (JAXPORT)
 ## Leadership & Service
 
 ### **Vice President & President (May 2024 - Present), International Council – USCGA**  
-• Lead international cadet representation across the Academy; direct logistics, strategy, and multi-event programming.
-• Facilitated communication between international cadets and Academy leadership, ensuring concerns 
-were addressed professionally and through appropriate channels. 
-• Assisted in managing logistics, scheduling, and funding for multi-event programming, contributing to 
-improved participation and organizational effectiveness. 
-• Planned and executed professional development, cultural, and morale-building events involving 
-Academy leadership, alumni, and external organizations. 
-• Directed organizational operations, including event logistics, scheduling, coordination with campus 
-offices, and allocation of funding and resources amounting to $14,000.00.
+• I lead the international cadet community at the Academy, representing their interests and serving as the primary bridge between cadets and Academy leadership. In this role, I manage logistics, planning, and strategy for multiple major events throughout the year while ensuring clear and professional communication channels.
+
+I coordinate scheduling, resources, and funding for international programs and cultural initiatives—overseeing more than $14,000 in allocated resources. I plan and execute professional development engagements, cultural programs, and morale-building events involving Academy leadership, alumni, and external partner organizations.
+
+Through this work, I ensure international cadets are supported academically, professionally, and personally, while strengthening the Academy’s global engagement and community presence.
 
 ### **Operations Liaison (Division Officer), Charlie Company**  
 • Managed cadet qualification documentation, personnel readiness, and operational coordination.
