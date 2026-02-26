@@ -112,6 +112,7 @@ Through this work, I ensure international cadets are supported academically, pro
 
 ## Certifications
 - Google Cybersecurity Professional Certificate
+- Red Team Leaders: Certified Cybersecurity Educator Professional
 
 ---
 
@@ -128,4 +129,4 @@ Through this work, I ensure international cadets are supported academically, pro
 
 ---
 
-> If you want to see what I’m currently building, check the **Projects** folder — it contains real SIEM deployments, SDR pipelines, network detection labs, and applied cyber engineering work.
+> If you want to see what I’m currently building, check the **Projects** folder — it contains real IDS/IPS deployments, network detection labs, and applied cyber engineering work.
