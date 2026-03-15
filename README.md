@@ -127,7 +127,7 @@ Through this work, I ensure international cadets are supported academically, pro
 ## Connect With Me
 
 **LinkedIn:** www.linkedin.com/in/amdelavega  
-**Email:** alliannematthew.z.delavega@uscga.edu  
+**Email:** alliannematthew.z.delavega@uscga.edu  / alliannematt@gmail.com
 
 ---
 
