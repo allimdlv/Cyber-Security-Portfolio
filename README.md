@@ -112,6 +112,7 @@ Through this work, I ensure international cadets are supported academically, pro
 
 ## Certifications
 - Google Cybersecurity Professional Certificate
+- Google IT Support Professional Certificate
 - Red Team Leaders Certified Cybersecurity Educator Professional
 - Fortinet Certified Fundamentals in Cybersecurity
 - Fortinet Certified Associate in Cybersecurity
