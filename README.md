@@ -2,7 +2,7 @@
 
 ## About Me
 
-I’m Allianne Matthew Dela Vega — a Cyber Systems major at the U.S. Coast Guard Academy graduating in 2026, specializing in **practical cybersecurity engineering, network defense, and maritime cyber operations**.
+A Cyber Systems major at the U.S. Coast Guard Academy graduating in 2026, specializing in **practical cybersecurity engineering, network defense, and maritime cyber operations**.
 
 ---
 
